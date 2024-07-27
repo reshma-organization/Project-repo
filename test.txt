@@ -1,2 +1,0 @@
-GitHub is a web-based platform used primarily for version control and collaborative software development. 
-It leverages the Git version control system to manage and track changes to code and other files within a project
