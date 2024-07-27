@@ -5,6 +5,13 @@ git - vcs
 changing
 
 
+
+addedd ---
+git init
+git add .
+git commit
+
 Thank you
 
 final copy
+
