@@ -3,3 +3,9 @@ It leverages the Git version control system to manage and track changes to code 
 
 git - vcs
 changing
+
+
+addedd ---
+git init
+git add .
+git commit
